@@ -1,0 +1,11 @@
+streamlit
+groq
+pandas
+python-dotenv
+plotly
+bcrypt
+openpyxl
+xlrd
+sqlalchemy
+pymysql
+psycopg2-binary
